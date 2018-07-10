@@ -1,0 +1,11 @@
+{
+  "msg": {
+    "code": "20000",
+    "message": "登陆成功！"
+  },
+  "login": {
+    "userName": "管理员",
+    "roleId": 1,
+    "accountId": 1
+  }
+}

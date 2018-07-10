@@ -1,0 +1,25 @@
+{
+  "msg": {
+    "code": "20000",
+    "message": "success"
+  },
+  "data": {
+    "list": [
+      {
+        "appuid": "0001",
+        "phone": "13455555555",
+        "name": "鸭蛋1",
+        "qquid": "3333332233333322",
+        "wxuid": "323232232",
+        "aliuid": "er333232323",
+        "comon": "智能公交",
+        "datatime": "2018-05-06 12:12:12",
+        "identype": "身份证",
+        "idenumber": "4201111222222333",
+        "uname": "张三",
+        "sex": "男",
+        "phonetype": "iphone8，mini2"
+      }
+    ]
+  }
+}
